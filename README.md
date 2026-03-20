@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -58,5 +59,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
