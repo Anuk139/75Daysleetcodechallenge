@@ -99,4 +99,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
