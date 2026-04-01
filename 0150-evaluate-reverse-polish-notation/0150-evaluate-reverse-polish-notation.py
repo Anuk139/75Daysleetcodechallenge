@@ -23,5 +23,6 @@ class Solution(object):
                 else:  #division
                     stack.append(int(float(a) / b))  #truncate toward zero
 
+
         return stack[-1]
     
