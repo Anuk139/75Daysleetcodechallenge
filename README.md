@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
