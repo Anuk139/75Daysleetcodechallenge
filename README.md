@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
