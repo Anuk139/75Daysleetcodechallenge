@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Anuk139/75Daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -85,6 +86,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
