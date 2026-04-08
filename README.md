@@ -125,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0739-daily-temperatures/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
