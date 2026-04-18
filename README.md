@@ -150,20 +150,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0112-path-sum/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0112-path-sum/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0112-path-sum/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Anuk139/75Daysleetcodechallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
